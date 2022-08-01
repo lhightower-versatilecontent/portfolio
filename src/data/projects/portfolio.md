@@ -2,7 +2,7 @@
 title: 'Portfolio'
 category: 'Personal Portfolio'
 date: '2022'
-image: portfolio.webp
+image: portfolio.jpg
 excerpt: Personal Portfolio
 projectCount: 1
 clientName: Lauren Hightower

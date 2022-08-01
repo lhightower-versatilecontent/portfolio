@@ -47,7 +47,7 @@ function ProjectContent(props) {
                                             Website:
                                         </span>
                                         {project?.website?.length ? (
-                                            <a href={project?.website} target="_blank">
+                                            <a href={project?.website} target="_blank" rel="noreferrer">
                                                 {project?.website}
                                             </a>
                                         ): 'Not publicly accessible'
