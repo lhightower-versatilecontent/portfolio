@@ -6,7 +6,7 @@ image: portfolio.jpg
 excerpt: Personal Portfolio
 projectCount: 1
 clientName: Lauren Hightower
-website: https://lauren_hightower.vercel.com
+website: https://portfolio-eight-bay-82.vercel.app/projects/portfolio
 technology: Next.js | Vercel hosting | HTML | CSS 
 additionDesc: My personal portfolio has been built as my first Vercel-hosted site using Next.Js.
 p2: I employed a template from Themeforest.net and customized it for my use. 
